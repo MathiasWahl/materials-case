@@ -2,7 +2,7 @@
 
 
 ### To get started:
-Clone the repo and run `npm install`
+Clone the repo and run `npm install` (or `pnpm install`)
 
 ### To run application:
 
