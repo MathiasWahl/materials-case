@@ -1,9 +1,9 @@
-{ "materials" :
-  [
+{
+  "materials": [
     {
       "title": "Office chairs",
       "Address": "Ole Vigs gate 16, 0366 Oslo",
-      "quantity": 20 ,
+      "quantity": 20,
       "unit": "pcs",
       "available": true,
       "imageUrl": "https://static.ajproducts.com/resize/globalassets/458115.jpg?ref=F914A39379&width=2732"
@@ -14,7 +14,7 @@
       "quantity": 5,
       "unit": "pcs",
       "available": true,
-      "imageUrl": "https://www.boconcept.com/on/demandware.static/-/Sites-master-catalog/default/dw7c1763bd/images/2010000/2014279.jpg"
+      "imageUrl": "https://static.ajproducts.com/resize/globalassets/458115.jpg?ref=F914A39379&width=2732"
     },
     {
       "title": "Keyboards",
@@ -30,7 +30,7 @@
       "quantity": 150,
       "unit": "kgs",
       "available": true,
-      "imageUrl": "https://media.istockphoto.com/photos/cement-in-bags-3d-rendering-isolated-on-white-background-picture-id987409372"
+      "imageUrl": "https://static.ajproducts.com/resize/globalassets/458115.jpg?ref=F914A39379&width=2732"
     },
     {
       "title": "Monitor",
@@ -48,7 +48,5 @@
       "available": false,
       "imageUrl": "https://media.istockphoto.com/vectors/no-sign-icon-red-crossed-circle-vector-design-vector-id1204457395?k=20&m=1204457395&s=612x612&w=0&h=_EVgJe3mYoTZ_jprTUumhbJR5RuZOKmnsB8TAxBtMTg="
     }
-
-
   ]
 }
